@@ -1,0 +1,8 @@
+nano Param.py
+
+x=27;
+y=30;
+
+pribnt(x+y);
+
+python3 Param.py
